@@ -1,0 +1,27 @@
+#include <iostream>
+#include <cstring>
+#include <algorithm>
+using namespace std;
+int len_s; char s[105], t[105];
+
+int main(){int x, _x=1;
+    for(cin>>x;_x<=x;_x++){
+        cin>>s>>t;len_s=strlen(s);
+	int sx=0,tx=0,sq=0;
+	for(int i=0;i<len_s;i++){
+	    if(s[i]=='0')sx++;
+	    if(t[i]=='0')tx++;
+	    if(s[i]=='?')sq++;
+	}
+	cout<<"Case "<<_x<<": ";
+	if(sx+sq<tx){cout<<-1<<endl;continue;}
+	for(int i=0;i<len_s;i++){
+	    if(s[i]=='?'&&t[i]=='0')
+	    {s[i]=0;sx++;}
+	    if(s[i]=='0'&&t[i]=='1')sq++;
+	}
+	if(sx>tx)cout<<sq<<endl;
+	else cout<<sq-sx+tx<<endl;
+    }
+    return 0;
+}

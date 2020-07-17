@@ -10,10 +10,14 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ek40is3FJ8XUp5Ont1tvNPmpap" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594852035712</updated>
       <workItem from="1594852040248" duration="618000" />
+      <workItem from="1594957142450" duration="8000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,29 @@
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+typedef long double ld;
+#define endl '\n'
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(NULL); cout.tie(NULL);
+    ll n, m;
+    cin >> n >> m;
+    map<pair<ld,int>, string> vals;
+    ld zipf = 1;
+    for(int i = 0; i < n; i++) {
+        ld t;
+        string s;
+        cin >> t >> s;
+        t *= zipf;
+        zipf++;
+        pair<ll,int> key = {-t,i};
+        vals[key] = s;
+    }
+    auto it = vals.begin();
+    for(int i = 0; i < m; i++) {
+        cout << it->second << endl;
+        it++;
+    }
+    return 0;
+}

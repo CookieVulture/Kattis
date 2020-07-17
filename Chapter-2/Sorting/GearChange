@@ -1,0 +1,41 @@
+typedef long long ll;
+typedef long double ld;
+typedef unsigned int uint;
+typedef unsigned long long ull;
+#define endl '\n'
+int main() {
+    int n, m;
+    ld p;
+    cin >> n >> m >> p;
+    p /= 100;
+    vector<ld> v1(n);
+    for(auto& i : v1) {
+        cin >> i;
+    }
+    vector<ld> v2(m);
+    for(auto& i : v2) {
+        cin >> i;
+    }
+    set<ld> s;
+    for(auto i : v1) {
+        for(auto j : v2) {
+            s.insert(i/j);
+        }
+    }
+    ld curr = *s.begin();
+    s.erase(curr);
+    bool works = true;
+    for(auto i : s) {
+        if(curr + curr*p < i) {
+            works = false;
+        }
+        curr = i;
+    }
+    if(works) {
+        cout << "Ride on!" << endl;
+    }
+    else {
+        cout << "Time to change gears!" << endl;
+    }
+    return 0;
+}

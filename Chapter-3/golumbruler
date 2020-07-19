@@ -1,0 +1,59 @@
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+typedef long double ld;
+typedef unsigned int uint;
+typedef unsigned long long ull;
+#define enld endl
+#define endl '\n'
+#define pb push_back
+#define debug(x) cout<<#x<<" -> "<<x<<'\n'
+#define all(x) (x).begin(), (x).end()
+#define rall(x) (x).rbegin(), (x).rend()
+#define uni(x) (x).erase(unique(all(x)), (x).end())
+#define rep(i, n) for (ll i = 0; i < (ll)(n); ++i)
+#define rep1(i, n) for (ll i = 1; i <= (ll)(n); ++i)
+
+int main() {
+    string s;
+    while(getline(cin, s)) {
+        stringstream ss;
+        ss << s;
+        vector<int> v;
+        int n;
+        while(ss >> n) {
+            v.pb(n);
+        }
+        sort(all(v));
+        vector<bool> good(v.back()+1, false);
+        bool notruler = false;
+        for(int i = 0; i < v.size(); i++) {
+            for(int j = i+1; j < v.size(); j++) {
+                if(good[v[j]-v[i]]) {
+                    notruler = true;
+                }
+                good[v[j]-v[i]] = true;
+            }
+        }
+        if(notruler) {
+            cout << "not a ruler" << endl;
+            continue;
+        }
+        vector<int> missing;
+        for(int i = 1; i <= v.back(); i++) {
+            if(!good[i]) {
+                missing.pb(i);
+            }
+        }
+        if(missing.size() == 0) {
+            cout << "perfect" << endl;
+        }
+        else {
+            cout << "missing ";
+            for(auto i : missing) {
+                cout << i << " ";
+            }
+            cout << endl;
+        }
+    }
+}

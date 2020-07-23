@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="270dda4d-ddbb-40c6-ab02-389483088894" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Chapter-2/Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Chapter-2/Array/froshweek2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Chapter-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Greedy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icpcteam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classrooms.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../froshweek2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../froshweek2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../icpcteam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Greedy/Greedy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/Astro.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/Greedy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/IO/twoDRotation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/baloni.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/baloni.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/cups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/divide.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/downtime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/froshweek2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/judging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/knot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/out/production/Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/out/production/Array/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/out/production/Array/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/out/production/Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/out/production/Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/out/production/Array/Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/out/production/Array/Astro.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/out/production/Array/Croatian/2010-11_contest4_solutions.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/out/production/Array/Croatian/2015-16_contest1_solutions.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/out/production/Array/NCPC/ncpc2015solutions.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../production/Chapter-2/out/production/Array/baloni.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Croatian.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/libraries/Croatian.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/Game.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/libraries/Game.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/ncpc2015solutions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/libraries/ncpc2015solutions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ewGMySesgPquRuYfuyfFvWBzcJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Greedy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\dpat5\AppData\Local\Programs\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="270dda4d-ddbb-40c6-ab02-389483088894" name="Default Changelist" comment="" />
+      <created>1595225197043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595225197043</updated>
+      <workItem from="1595225198245" duration="266000" />
+      <workItem from="1595225479843" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595225462199">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595225462199" />
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1595225492855">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595225492855" />
+  </component>
+</project>
